@@ -1,0 +1,1 @@
+this is newFile3.js
